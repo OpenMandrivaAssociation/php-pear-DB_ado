@@ -4,7 +4,7 @@
 
 Name:		php-pear-%{upstream_name}
 Version:	1.3.1
-Release:	8
+Release:	9
 Summary:	DB driver which use MS ADODB library
 License:	PHP License
 Group:		Development/PHP
